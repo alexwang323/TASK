@@ -1,0 +1,6 @@
+<resources>
+    <item type="id" name="taskListRecyclerView" />
+    <item type="id" name="etName" />
+    <item type="id" name="etDescription" />
+    <item type="id" name="etDueDate" />
+</resources>

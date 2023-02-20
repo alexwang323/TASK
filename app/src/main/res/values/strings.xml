@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TASK!</string>
+    <string name="title_activity_edit_task">Edit Task</string>
+</resources>
